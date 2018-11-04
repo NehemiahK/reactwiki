@@ -1,14 +1,13 @@
 {
-  "main.css": "/reactwiki/static/css/main.264ab468.chunk.css",
-  "main.js": "/reactwiki/static/js/main.68f53aeb.chunk.js",
-  "main.js.map": "/reactwiki/static/js/main.68f53aeb.chunk.js.map",
+  "main.css": "/reactwiki/static/css/main.7510d4a6.chunk.css",
+  "main.js": "/reactwiki/static/js/main.a05ec498.chunk.js",
+  "main.js.map": "/reactwiki/static/js/main.a05ec498.chunk.js.map",
   "static/js/1.37f90d57.chunk.js": "/reactwiki/static/js/1.37f90d57.chunk.js",
   "static/js/1.37f90d57.chunk.js.map": "/reactwiki/static/js/1.37f90d57.chunk.js.map",
   "runtime~main.js": "/reactwiki/static/js/runtime~main.86d6d732.js",
   "runtime~main.js.map": "/reactwiki/static/js/runtime~main.86d6d732.js.map",
-  "static/media/logo.svg": "/reactwiki/static/media/logo.5d5d9eef.svg",
-  "static/css/main.264ab468.chunk.css.map": "/reactwiki/static/css/main.264ab468.chunk.css.map",
+  "static/css/main.7510d4a6.chunk.css.map": "/reactwiki/static/css/main.7510d4a6.chunk.css.map",
   "index.html": "/reactwiki/index.html",
-  "precache-manifest.c7b2a6f8cc24508db92d2295a5263cf6.js": "/reactwiki/precache-manifest.c7b2a6f8cc24508db92d2295a5263cf6.js",
+  "precache-manifest.e5d43ab3f6fa7f201d24e2e51cd3197b.js": "/reactwiki/precache-manifest.e5d43ab3f6fa7f201d24e2e51cd3197b.js",
   "service-worker.js": "/reactwiki/service-worker.js"
 }
